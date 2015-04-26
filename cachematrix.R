@@ -16,6 +16,7 @@ makeCacheMatrix <- function(x = matrix()) {
        getInv = getInv)
 }
 
+# creacting function with above vector
 
 
 cacheSolve <- function(x, ...) {
